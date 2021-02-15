@@ -25,7 +25,7 @@ SECRET_KEY = 'cfoa8y*qwlfoipson*zm8jg@0nbrtgaeq-+drirc$br0%-7usi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 #DEBUG = True
-ALLOWED_HOSTS = ['task--tracking-system.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['task--tracking--system.herokuapp.com', '127.0.0.1']
 #ALLOWED_HOSTS = []
 
 
